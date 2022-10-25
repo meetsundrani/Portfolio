@@ -19,8 +19,7 @@ function Home2() {
              Introduction
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I love to build and play with programming, This how i have explore it as below, still many more to go...😀
               <br />
               <br />I am fluent in classics like
               <i>
