@@ -28,6 +28,19 @@ function Projects() {
           </Col>
           <p className="purple">Still Projects Section is under development!!! Till then keep calm & visit again 😊</p>
         </Row>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Food-Frenzy"
+              description="An Food delivery app UI built with React.js, Redux toolkit."
+              ghLink="https://github.com/meetsundrani/Food-Frenzy"
+              demoLink=""
+            />
+          </Col>
+          <p className="purple">Still Projects Section is under development!!! Till then keep calm & visit again 😊</p>
+        </Row>
       </Container>
     </Container>
   );
